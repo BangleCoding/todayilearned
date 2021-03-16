@@ -16,6 +16,10 @@
 |ls|현재 디렉터리 안의 파일과 디렉터리 확인|
 |clear1|화면 정리|
 
+```bash
+$ init
+```
+
 
 - git 연결 끊기
     - 수동삭제 for Windows - git 이 연결된 해당 폴더로 이동하여 .git 폴더를 삭제한다.
@@ -27,3 +31,4 @@
 ```html
 <html></html>
 this is my code
+```
