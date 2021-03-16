@@ -15,3 +15,11 @@
 |pwd|현재 위치의 경로|
 |ls|현재 디렉터리 안의 파일과 디렉터리 확인|
 |clear1|화면 정리|
+
+
+- git 연결 끊기
+    - 수동삭제 for Windows - git 이 연결된 해당 폴더로 이동하여 .git 폴더를 삭제한다.
+    - 명령어 입력 for Windows, Mac - git remote remove origin  - Remote를 해제하여 로컬과 원격 저장소의 연결을 종료시킨다.
+    - 명령어를 통한 .git 파일 삭제 for Windows, Mac
+        - find ./ -name ".git" | xargs rm - Rf
+        - Mac의 경우 .git 파일은 숨겨져 있기 때문에 명령어로 삭제할 수 있다.
