@@ -15,4 +15,4 @@ for coin in coin_types:
     
 print("총갯수:", count)
 
-```python
+```
