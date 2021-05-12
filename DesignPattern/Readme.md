@@ -4,9 +4,14 @@
 
 ## 디자인 패턴이 필요한 이유 
 
-## 객체지향 설계 5대 원칙(SOLID)   
+## 객체지향 설계 5대 원칙(SOLID)
+- S : SRP(Single Responsibility Principle 단일 책임 원칙) 
+- O : OCP(Open/Closed Principle 개방-폐쇄 원칙) 
+- L : LSP(Liskov Subsititution Principle 리스코프 치환 원칙)
+- I : ISP(Interface Segregation Principle 인터페이스 분리 원칙)
+- D : DIP (Dependency inversion principle 의존관계 역전 원칙) 
 
-## 디자인 패턴의 종류 
+## 디자인 패턴의 종류 (GoF : Gang of Four) 
 -------------
 
 | 생성 패턴(Creational patterns) | 구조 패턴(Structural patterns) | 행동 패턴(Behavioral patterns) |
