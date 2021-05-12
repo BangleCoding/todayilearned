@@ -12,7 +12,6 @@
 - D : DIP (Dependency inversion principle 의존관계 역전 원칙) 
 
 ## 디자인 패턴의 종류 (GoF : Gang of Four) 
--------------
 
 | 생성 패턴(Creational patterns) | 구조 패턴(Structural patterns) | 행동 패턴(Behavioral patterns) |
 |:---:|:---:|:---:|
