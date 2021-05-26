@@ -14,3 +14,9 @@ alert(str); // lets , do , it
 ```
 
 JSON to String 
+
+
+#### for 문 
+```javascript
+ for (let i = size; i < str.length; i += size){} 
+```
