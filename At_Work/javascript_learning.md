@@ -1,5 +1,9 @@
 ### javascript 정리 노트
 
+### var, let, const 차이점 
+- var은 function-scoped, let, const는 block-scoped 
+- let은 변수 재할당 가능
+- const는 변수 재선언, 재할당 모두 불가능 
 
 
 #### String 
