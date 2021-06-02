@@ -8,6 +8,8 @@
 
 #### String 
 ##### String 자르기 
+
+##### split : separateor 구분자를 기준으로 문자열을 자름 
 ```javascript
 str.split([separator[, limit]]); 
 
@@ -16,6 +18,12 @@ var str = lets do it;
 str.split(''); 
 alert(str); // lets , do , it  
 ```
+
+##### substring : 시작 인덱스부터 종료 인덱스까지의 문자열을 반환함 
+```javascript
+str.substring(indexStart[, indexEnd])
+```
+
 
 JSON to String 
 
