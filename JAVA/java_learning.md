@@ -26,7 +26,7 @@ public class SortingString {
 
 	public static void main(String[] args) {
   
-  str = "test"; 
+  	str = "test"; 
 
 	for(int i =0; i<str.length(); i++) {
 		if(Character.isLetter(str.charAt(i))) {
