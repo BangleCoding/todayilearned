@@ -19,6 +19,11 @@ alert(str); // lets , do , it
 
 JSON to String 
 
+##### String 공백 제거
+```javacript
+str.trim()
+```
+
 
 #### for 문 
 ```javascript
