@@ -59,10 +59,28 @@ pey + juliet
 
 모듈 : 
 
+```python
+def sum(a,b):
+    if type(a) != type(b):
+        print("서로 다른 타입이라 더할 수 없습니다.")
+        return
+    else:
+        result = a+b
+    return result
+```
+
 ``` python
 import mod1 
+print(mod1.sum(1,'a'))
 
 #주의! mod1.py라고 확장자를 입력하지 말 것. 
 
+결과
+
+#서로 다른 타입이라 더할 수 없습니다.
+#None
+
 
 ```
+
+return 이 단독으로 사용될 경우 None 값을 돌려준다. 
