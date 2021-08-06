@@ -54,3 +54,15 @@ pey + juliet
 
 # pey + juliet 더하기 연산자로 __add__ 호출 
 ```
+
+
+
+모듈 : 
+
+``` python
+import mod1 
+
+#주의! mod1.py라고 확장자를 입력하지 말 것. 
+
+
+```
